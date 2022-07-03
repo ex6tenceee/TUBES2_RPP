@@ -1,0 +1,7 @@
+C:\Users\HP\Praktikum_KPL\UASKPLBISMILLAH\UASKPLBISMILLAH\obj\Debug\net6.0-windows\UASKPLBISMILLAH.csproj.AssemblyReference.cache
+C:\Users\HP\Praktikum_KPL\UASKPLBISMILLAH\UASKPLBISMILLAH\obj\Debug\net6.0-windows\UASKPLBISMILLAH.Form1.resources
+C:\Users\HP\Praktikum_KPL\UASKPLBISMILLAH\UASKPLBISMILLAH\obj\Debug\net6.0-windows\UASKPLBISMILLAH.csproj.GenerateResource.cache
+C:\Users\HP\Praktikum_KPL\UASKPLBISMILLAH\UASKPLBISMILLAH\obj\Debug\net6.0-windows\UASKPLBISMILLAH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Praktikum_KPL\UASKPLBISMILLAH\UASKPLBISMILLAH\obj\Debug\net6.0-windows\UASKPLBISMILLAH.AssemblyInfoInputs.cache
+C:\Users\HP\Praktikum_KPL\UASKPLBISMILLAH\UASKPLBISMILLAH\obj\Debug\net6.0-windows\UASKPLBISMILLAH.AssemblyInfo.cs
+C:\Users\HP\Praktikum_KPL\UASKPLBISMILLAH\UASKPLBISMILLAH\obj\Debug\net6.0-windows\UASKPLBISMILLAH.csproj.CoreCompileInputs.cache

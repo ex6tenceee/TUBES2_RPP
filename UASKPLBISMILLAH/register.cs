@@ -26,7 +26,7 @@ namespace UASKPLBISMILLAH
         {
             string nama, alamat, username, password;
             long telp;
-
+             
             nama = textBox1.Text;
             alamat = textBox2.Text;
             username = textBox3.Text;

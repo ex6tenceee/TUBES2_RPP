@@ -21,5 +21,19 @@ namespace UASKPLBISMILLAH
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string nama, alamat, username, password;
+            long telp;
+
+            nama = textBox1.Text;
+            alamat = textBox2.Text;
+            username = textBox3.Text;
+            password = textBox4.Text;
+            telp = long.Parse(textBox2.Text);
+            MessageBox.Show("nama : " + nama + "\nN.telp:" + telp + "\nAlamat : " + alamat + "\nUsername : " + username + "\nPassword :" + password);
+
+        }
     }
 }

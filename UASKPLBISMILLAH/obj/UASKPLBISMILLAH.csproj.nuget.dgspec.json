@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Praktikum_KPL\\UASKPLBISMILLAH\\UASKPLBISMILLAH\\UASKPLBISMILLAH.csproj": {}
+    "C:\\Users\\lenovo\\Source\\Repos\\TUBES2_RPP\\UASKPLBISMILLAH\\UASKPLBISMILLAH.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Praktikum_KPL\\UASKPLBISMILLAH\\UASKPLBISMILLAH\\UASKPLBISMILLAH.csproj": {
+    "C:\\Users\\lenovo\\Source\\Repos\\TUBES2_RPP\\UASKPLBISMILLAH\\UASKPLBISMILLAH.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Praktikum_KPL\\UASKPLBISMILLAH\\UASKPLBISMILLAH\\UASKPLBISMILLAH.csproj",
+        "projectUniqueName": "C:\\Users\\lenovo\\Source\\Repos\\TUBES2_RPP\\UASKPLBISMILLAH\\UASKPLBISMILLAH.csproj",
         "projectName": "UASKPLBISMILLAH",
-        "projectPath": "C:\\Users\\HP\\Praktikum_KPL\\UASKPLBISMILLAH\\UASKPLBISMILLAH\\UASKPLBISMILLAH.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Praktikum_KPL\\UASKPLBISMILLAH\\UASKPLBISMILLAH\\obj\\",
+        "projectPath": "C:\\Users\\lenovo\\Source\\Repos\\TUBES2_RPP\\UASKPLBISMILLAH\\UASKPLBISMILLAH.csproj",
+        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenovo\\Source\\Repos\\TUBES2_RPP\\UASKPLBISMILLAH\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "TWRb/+JOCbvrh91L0+Bzy9lWHJ7H6fIHuSUi48EyqGpr67/025hbWGcm3ac5TehkPmEHHPiE3x2snXRkDt4qVQ==",
-  "success": true,
+  "dgSpecHash": "RFZPlek+Qk5Fr0mfVql2RWAnr5SUVlwvBT0lfSBJr8Xc/VPna78I2h/dl1LoFFKbgWywgHF3UtMKjYIQ9aFXxw==",
+  "success": false,
   "projectFilePath": "C:\\Users\\HP\\Praktikum_KPL\\UASKPLBISMILLAH\\TestingByYanuar\\TestingByYanuar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
@@ -93,5 +93,15 @@
     "C:\\Users\\HP\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project UASKPLBISMILLAH is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project UASKPLBISMILLAH supports: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "UASKPLBISMILLAH",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

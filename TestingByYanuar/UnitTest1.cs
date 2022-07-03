@@ -1,5 +1,9 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
+namespace UASKPLBISMILLAH;
+{
+}
+
 namespace TestingByYanuar
 {
     [TestClass]
@@ -8,6 +12,7 @@ namespace TestingByYanuar
         [TestMethod]
         public void TestMethod1()
         {
+            string 
         }
     }
 }

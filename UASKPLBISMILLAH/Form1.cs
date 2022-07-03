@@ -29,7 +29,7 @@ namespace UASKPLBISMILLAH
             }
             else
             {
-                label3.Text = "Coba Lagi";
+                label3.Text = "Coba Lagi"; 
             }
         }
         private void label3_Click(object sender, EventArgs e)
